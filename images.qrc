@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images.qrc</file>
+        <file>Images/colorIcon.png</file>
+        <file>Images/calcIcon.png</file>
+        <file>Images/copyIcon.png</file>
+        <file>Images/cutIcon.png</file>
+        <file>Images/delicon_icon (1).png</file>
+        <file>Images/delicon_icon.png</file>
+        <file>Images/EasyGraph_SplashScreen (1).jpg</file>
+        <file>Images/EasyGraph_SplashScreen.jpg</file>
+        <file>Images/EasyGraph_StartMenu_Background.jpg</file>
+        <file>Images/EasyGraph_StartMenu_Background1.jpg</file>
+        <file>Images/EGHomeScreen.PNG</file>
+        <file>Images/egicon_icon (1).png</file>
+        <file>Images/egicon_icon.png</file>
+        <file>Images/InstuctionsImage copy.PNG</file>
+        <file>Images/InstuctionsImage.PNG</file>
+        <file>Images/newicon_icon.png</file>
+        <file>Images/openIcon.png</file>
+        <file>Images/pasteIcon.png</file>
+        <file>Images/saveIcon.png</file>
+        <file>Images/timerIcon.png</file>
+    </qresource>
+</RCC>
